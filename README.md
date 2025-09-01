@@ -9,7 +9,7 @@ The code is divided into two main sections, each demonstrating a core OOP concep
 
 The project consists of a single Python file:
 
-- `assignment_solution.py` → contains all the necessary classes and the main program to demonstrate their functionality.
+- `week_5.py` → contains all the necessary classes and the main program to demonstrate their functionality.
 
 ---
 
@@ -50,12 +50,7 @@ Python then automatically calls the correct `move()` implementation for each obj
 
 ---
 
-## ▶️ How to Run
-
-1. Save the file: Ensure the Python code is saved as a `.py` file (e.g., `main.py` or `assignment_solution.py`).  
-2. Run from the terminal: Open your terminal or command prompt, navigate to the directory where you saved the file, and run:
-3. View the output: The program will print the demonstration of both assignments to the console.
-# 📌 Expected Output
+## 📌 Expected Output
 
 ```bash
 python main.py
